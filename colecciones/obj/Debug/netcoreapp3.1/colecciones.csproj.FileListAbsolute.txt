@@ -1,0 +1,12 @@
+C:\Users\geros\source\repos\colecciones\colecciones\bin\Debug\netcoreapp3.1\colecciones.exe
+C:\Users\geros\source\repos\colecciones\colecciones\bin\Debug\netcoreapp3.1\colecciones.deps.json
+C:\Users\geros\source\repos\colecciones\colecciones\bin\Debug\netcoreapp3.1\colecciones.runtimeconfig.json
+C:\Users\geros\source\repos\colecciones\colecciones\bin\Debug\netcoreapp3.1\colecciones.runtimeconfig.dev.json
+C:\Users\geros\source\repos\colecciones\colecciones\bin\Debug\netcoreapp3.1\colecciones.dll
+C:\Users\geros\source\repos\colecciones\colecciones\bin\Debug\netcoreapp3.1\colecciones.pdb
+C:\Users\geros\source\repos\colecciones\colecciones\obj\Debug\netcoreapp3.1\colecciones.AssemblyInfoInputs.cache
+C:\Users\geros\source\repos\colecciones\colecciones\obj\Debug\netcoreapp3.1\colecciones.AssemblyInfo.cs
+C:\Users\geros\source\repos\colecciones\colecciones\obj\Debug\netcoreapp3.1\colecciones.csproj.CoreCompileInputs.cache
+C:\Users\geros\source\repos\colecciones\colecciones\obj\Debug\netcoreapp3.1\colecciones.dll
+C:\Users\geros\source\repos\colecciones\colecciones\obj\Debug\netcoreapp3.1\colecciones.pdb
+C:\Users\geros\source\repos\colecciones\colecciones\obj\Debug\netcoreapp3.1\colecciones.genruntimeconfig.cache
